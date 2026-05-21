@@ -36,7 +36,7 @@ Ensure the topic prefix (first 2-3 words of the slug) is identical across all 4 
      4. **Provide Value**: Offer actionable tips, insights, or solutions.
      5. **Call to Action (CTA)**: End with a clear question to invite comments or encourage sharing.
      6. **Hashtags**: Include 3-5 relevant industry hashtags.
-     7. **Formatting**: Use line breaks for readability and emojis sparingly to highlight points.
+     7. **Formatting**: Use line breaks for readability. **Emoji Strategy**: You MUST integrate emojis meaningfully throughout the content to break up text and add visual interest (e.g., at the start of bullet points, end of key paragraphs, or to emphasize emotion), not just dumped at the end. Do not use Markdown (`#`, `**`) except for the mandatory blocks.
    - **Format**: Mandatory `**Intro:**` block at the top.
 2. **Facebook (`Fb-Topic-Slug.md`)**:
    - **Limit**: Max `700` words.
