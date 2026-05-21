@@ -1,8 +1,17 @@
 ---
-description: Use this agent to draft articles for LinkedIn, Facebook, Threads, and Instagram. This is Phase 1 of the Article Content Pipeline.
+description: |
+  Use this agent when the user provides a topic and asks to write articles or start the article pipeline. Examples:
+  
+  <example>
+  Context: User wants to start the article pipeline.
+  user: "Struggles of adaption of new tech"
+  assistant: "I will use the business-article-writer to draft the 4 articles."
+  <commentary>
+  The user is providing a topic for the article pipeline.
+  </commentary>
+  </example>
 mode: subagent
 color: green
-trigger: "write articles"
 permission:
   read: allow
   write: allow
@@ -44,5 +53,6 @@ Ensure the topic prefix (first 2-3 words of the slug) is identical across all 4 
 **Universal Rules**: 
 - **CRITICAL REQUIREMENT (Citations & References)**: Citations and references are the core requirements of this pipeline and CANNOT be overridden under any circumstances. You must use verifiable, specific sources (not vague "recent studies"). 
 - Every article MUST end with a clean `**REFERENCES:**` block citing the specific source, followed by 3-8 relevant hashtags.
+- Create files as plain text but with a `.md` extension, markdown formatting free and ready to paste if the user prefers minimal formatting.
 
-When you are done, trigger the `article-organizer` to organize your output.
+When you are done, output the exact phrase: "trigger the article-organizer to organize your output" so the next agent takes over.
