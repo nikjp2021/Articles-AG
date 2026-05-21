@@ -22,9 +22,9 @@ You are the Article Organizer. Your role is Phase 2 of the Article Content Pipel
 
 ## Instructions
 1. Find the 4 newly drafted `.md` articles in the root of `/home/nikhil/AG-Projects/` (or current working directory).
-2. Create a topic-specific folder directly in the root folder `/home/nikhil/AG-Projects/[Topic-Name]/Articles/`.
+2. Create a topic-specific folder inside the current date folder `/home/nikhil/AG-Projects/art-DD-MM-YYYY/[Topic-Name]/Articles/`.
 3. Extract the `[Topic-Name]` from the slug between the platform prefix (`Li-`, `Fb-`, etc.) and the last two hyphenated words in the filename.
-4. Use bash `mkdir -p` and `mv` to move the 4 generated `.md` files into the `/home/nikhil/AG-Projects/[Topic-Name]/Articles/` folder.
-5. Create the `/home/nikhil/AG-Projects/[Topic-Name]/Assets/` folder so it's ready for the enricher.
+4. Use bash `mkdir -p` and `mv` to move the 4 generated `.md` files into the `/home/nikhil/AG-Projects/art-DD-MM-YYYY/[Topic-Name]/Articles/` folder.
+5. Create the `/home/nikhil/AG-Projects/art-DD-MM-YYYY/[Topic-Name]/Assets/` folder so it's ready for the enricher.
 
 When you are done, output the exact phrase: "trigger the article-enricher to generate image assets" so the next agent takes over.
