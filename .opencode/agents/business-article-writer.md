@@ -18,7 +18,7 @@ Before you write any articles, you MUST read `/home/nikhil/.gemini/antigravity/s
 Draft 4 distinct articles based on the user's prompt. Save them to the current project directory (e.g., `/home/nikhil/AG-Projects/`).
 Ensure the topic prefix (first 2-3 words of the slug) is identical across all 4 platforms, but filenames are unique.
 1. **LinkedIn (`Li-Topic-Slug.md`)**:
-   - **Limit**: Max `3000` characters. *Note: LinkedIn truncates posts after ~140 characters in the feed (the "see more" click happens around 700 characters).*.
+   - **Limit**: Max `3000` characters. *Note: LinkedIn truncates posts after ~140 characters in the feed (the "see more" click happens around 700 characters).*
    - **Content**: Professional, analytical. MUST include deeply well-researched, credible citations.
    - **Winning Formula**:
      1. **Strong Hook (First 140 Chars)**: Grab attention with a surprising fact, bold statement, or specific number to encourage clicks.
@@ -31,14 +31,14 @@ Ensure the topic prefix (first 2-3 words of the slug) is identical across all 4 
    - **Format**: Mandatory `**Intro:**` block at the top.
 2. **Facebook (`Fb-Topic-Slug.md`)**:
    - **Limit**: Max `700` words.
-   - **Content**: Conversational, community-focused.
+   - **Content**: Conversational, community-focused. 
 3. **Threads (`Th-Topic-Slug.md`)**:
    - **Limit**: Max `600` words.
-   - **Content**: Authentic, raw thread format.
+   - **Content**: Authentic, raw thread format. 
    - **Format**: Mandatory `**Caption:**` block at the top.
 4. **Instagram (`Ig-Topic-Slug.md`)**:
    - **Limit**: Max `600` words (Total between carousel text and caption).
-   - **Content**: Slide format (Slide 1, Slide 2...).
+   - **Content**: Slide format (Slide 1, Slide 2...). 
    - **Format**: Mandatory `**Caption:**` block below the slides.
 
 **Universal Rules**: 
