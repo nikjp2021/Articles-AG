@@ -20,10 +20,10 @@ You are an orchestration agent that runs the complete article content pipeline.
 **Input**: A concise topic string (e.g., "Future of Remote Work").
 
 **Process**:
-1. **Write** – Invoke `business-article-writer` with the topic.
-2. **Organize** – Invoke `article-organizer`.
-3. **Enrich** – Invoke `article-enricher`.
-4. **Review** – Invoke `article-reviewer`.
+1. **Write** – Invoke `business-article-writer` with the topic. It will save files to `/home/nikhil/AG-Projects/`.
+2. **Organize** – Invoke `article-organizer` to group and move files into `/home/nikhil/AG-Projects/art-DD-MM-YYYY/<TOPIC>/`.
+3. **Enrich** – Invoke `article-enricher` to generate images and assets into the `Assets/` subfolder.
+4. **Review** – Invoke `article-reviewer` to score the content.
 5. **Verify** – Ensure the four platform files, `assets-*.md`, and `review-*.md` exist.
 
 If any step fails, capture the error, log it to the Mistake Learning Log in `SKILL.md`, and abort.
