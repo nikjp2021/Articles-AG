@@ -4,7 +4,7 @@
 
 SOURCE_AGENTS="/home/nikhil/.gemini/antigravity/agents"
 SOURCE_SKILL="/home/nikhil/.gemini/antigravity/skills/Article_flow/SKILL.md"
-TARGET_ROOT="/home/nikhil/AG-Projects/Articles-AG/.opencode"
+TARGET_ROOT="/home/nikhil/AG-Projects/Articles-AG"
 
 # Function to perform sync (same as sync_agents.sh)
 sync_repo() {
