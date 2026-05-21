@@ -3723,3 +3723,15 @@ To https://github.com/nikjp2021/Articles-AG.git
    c34c468..a1d8556  main -> main
 [Thu May 21 11:49:19 AM JST 2026] Sync complete.
 [Thu May 21 11:49:21 AM JST 2026] Syncing agents and SKILL.md...
+[main 65861a8] Auto‑sync latest agents & SKILL.md
+ 7 files changed, 187 insertions(+)
+ create mode 100644 agents/article-archiver.md
+ create mode 100644 agents/article-enricher.md
+ create mode 100644 agents/article-organizer.md
+ create mode 100644 agents/article-reviewer.md
+ create mode 100644 agents/auto_sync_agent.md
+ create mode 100644 agents/business-article-writer.md
+To https://github.com/nikjp2021/Articles-AG.git
+   a1d8556..65861a8  main -> main
+[Thu May 21 11:49:22 AM JST 2026] Sync complete.
+[Thu May 21 11:49:24 AM JST 2026] Syncing agents and SKILL.md...
