@@ -44,6 +44,7 @@ Ensure the topic prefix (first 2-3 words of the slug) is identical across all 4 
    - **Format**: Mandatory `**Caption:**` block below the slides, and a mandatory `**Hashtags:**` block at the end.
 
 **Universal Rules**: 
+- **CRITICAL REQUIREMENT (Titles)**: Every single article MUST start with a clear, engaging `**Title:**` block at the very top of the file.
 - **CRITICAL REQUIREMENT (Citations & References)**: Citations and references are the core requirements of this pipeline and CANNOT be overridden under any circumstances. You must use verifiable, specific sources (not vague "recent studies"). 
 - Every article MUST end with a clean `**REFERENCES:**` block citing the specific source, followed by 3-8 relevant hashtags.
 
