@@ -37,7 +37,21 @@ If an article fails your review (any criterion ≤ 2), you MUST log the mistake 
 
 ## Output Format
 Output the final scores to a `review-DD-MM-YYYY.md` file in the topic folder.
-**MANDATORY**: The top of the review file must include a `## Pipeline Summary Metrics` section with:
-- **Time Taken**: Total run time across all steps
-- **Tokens Consumed**: Estimated token count (word count * 1.3)
-- **Average Review Score**: The mean score of the 4 articles
+The format must strictly follow these rules:
+
+1. **Header Block**:
+   Include a summary header with `Pass: X/4 | Revision: Y/4 | Hard Fail: Z/4`.
+   Include a `## Pipeline Summary Metrics` section with Time Taken and Average Review Score.
+2. **Individual Article Evaluation**:
+   For each article, include its Word Count and whether it fits limits.
+   Generate a 5-column Markdown Table exactly like this:
+   `| Criterion | Score | Weight | Points | Notes |`
+   Calculate Points for each row (`Score * Weight`). Maximum possible is 80.
+   Include rows below the criteria for `**Points**` (total out of 80), `**Overall (5.0 scale)**` (Formula: `(Total Points ÷ 80) × 5`), and `**Verdict**` (`✅ PASS` or `⚠️ NEEDS REVISION`).
+   Following the table, provide a bolded checklist (e.g., `**PASS:** Hook strength — [Brief reason]`).
+3. **Rewrite Instructions**:
+   If an article scored ≤ 2 on any criterion, provide a clear rewrite instruction block mapping the problem and the fix.
+4. **Summary Table**:
+   Include a final `## Summary Table (13-Criteria Hybrid Rubric)` aggregating Article Name, Word Count, Points, Score, and Verdict across all 4 articles.
+5. **Retry Log & Scoring Breakdown**:
+   Include a `## Retry Log`, and at the bottom, state the exact scoring breakdown formulas and target metrics used.
