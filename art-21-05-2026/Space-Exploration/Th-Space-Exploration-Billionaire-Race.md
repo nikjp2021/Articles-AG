@@ -1,3 +1,5 @@
+**Title:** The Billionaire Space Race: Vanity or Vision? 🚀
+
 **Caption:**
 What are your thoughts on the new space race? Are you here for the innovation, or exhausted by the ego trips? Let's discuss! 👇
 

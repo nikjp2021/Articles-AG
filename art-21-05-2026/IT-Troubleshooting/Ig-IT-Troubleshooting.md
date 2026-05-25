@@ -1,12 +1,8 @@
 **Title:** The 5 Stages of Debugging Grief 💻📉
 
-The 5 Stages of Debugging Grief 💻📉
-
-(Swipe for the emotional lifecycle of troubleshooting IT systems) 👉
-
 **Slide 1 — Title Card**
 **Alt Text:** Bold title reading "The 5 Stages of Debugging Grief" with a crying computer emoji.
-The 5 Stages of Debugging Grief 💻
+The 5 Stages of Debugging Grief 💻📉
 
 **Slide 2 — Denial**
 **Alt Text:** An illustration of a developer looking at code with their eyes covered.
@@ -29,8 +25,8 @@ The 5 Stages of Debugging Grief 💻
 "Oh. It was a typo. IT WORKS!" 🎉
 
 **Slide 7 — The Reality**
-**Alt Text:** A chart showing 17 hours wasted per week on debugging.
-Fun fact: Stripe's developer report shows engineers waste up to 17 hours a week just dealing with bad code and debugging. You aren't alone! 📊
+**Alt Text:** A chart showing 17 hours wasted per week on debugging and technical debt.
+Fun fact: Stripe's "The Developer Coefficient" report shows engineers waste up to 17.3 hours a week just dealing with bad code and debugging. You aren't alone! 📊
 
 **Slide 8 — CTA**
 **Alt Text:** A question prompt asking viewers for their stage of grief.
@@ -44,3 +40,6 @@ Let's be real—troubleshooting IT systems is an emotional rollercoaster. From t
 Which stage do you get stuck in the longest? 😅 Drop a comment below!
 
 #DeveloperLife #SoftwareEngineering #TechHumor #Debugging #CodingMemes #WomenInTech #ITSupport
+
+REFERENCES:
+- Stripe. (2018). The Developer Coefficient.

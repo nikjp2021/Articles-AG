@@ -1,4 +1,5 @@
-**Caption:**
+**Title:** The AI Divide: Who Actually Gets Rich?
+
 We need to talk about who actually gets rich from AI. Are we just creating a massive new tech divide? Let's discuss. 👇
 
 1/ Everyone is hyping up how AI will add trillions to the global economy. But look at the data: almost all of that wealth is consolidating in the Global North. We are actively watching a new digital divide form in real-time. 📉👀

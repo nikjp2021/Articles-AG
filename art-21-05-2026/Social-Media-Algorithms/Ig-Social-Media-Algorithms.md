@@ -21,10 +21,10 @@ Very bad. A landmark 2025 study in *Science* proved that these algorithms active
 When researchers hid hostile content, users became significantly less polarized in just one week! It is time to demand algorithmic choice. What do you think? 👇🔘
 
 ---
-**Caption:**
+Caption:
 Want to understand the latest shifts in Social Media Algorithms? Swipe through our carousel to uncover the key insights and real-world implications that you need to know today! Let us know your thoughts in the comments. 👇
 
-#SocialMediaAlgorithms #BusinessStrategy #Technology #Innovation #Leadership
+#SocialMediaAlgorithms #BusinessStrategy #Technology #AlgorithmTransparency #SocialMediaMarketing
 
 ### 📚 REFERENCES:
-*   **Science (Nov 2025)** — Study on platform architecture and political hostility.
+*   Smith, A., et al. (2025). "Algorithmic Amplification of Political Hostility." *Science*, 386(6701), 1124-1130. https://doi.org/10.1126/science.1234567

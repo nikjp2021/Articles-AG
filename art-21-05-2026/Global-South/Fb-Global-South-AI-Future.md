@@ -1,3 +1,5 @@
+**Title:** Is AI Creating a Massive New Global Divide? 🌍
+
 Is AI going to leave half the world behind? 🤔🌍
 
 We hear all the time about how Artificial Intelligence is going to change the world and create trillions of dollars in new wealth. But who is actually getting richer? 

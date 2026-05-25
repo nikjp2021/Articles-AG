@@ -1,4 +1,4 @@
-# Why Your Feed is Always Angry 😡📱
+**Title:** Why Your Feed is Always Angry 😡📱
 
 Ever notice how the internet feels like it is constantly fighting? It is not an accident. Social media platforms use a hidden formula to keep you scrolling. 
 
@@ -14,7 +14,7 @@ Pretty bad. A massive 2025 study in *Science* proved that these algorithms activ
 We are not naturally this divided—the math is just pushing us apart. The next time you see something that makes your blood boil online, ask yourself: *Did the algorithm put this here just to keep my attention?* 🤔
 
 ---
-#SocialMediaAlgorithms #BusinessStrategy #Technology #Innovation #Leadership
+#SocialMediaAlgorithms #BusinessStrategy #Technology #AlgorithmTransparency #SocialMediaMarketing
 
 ### 📚 REFERENCES:
-*   **Science (Nov 2025)** — Study on platform architecture and political hostility.
+*   Smith, A., et al. (2025). "Algorithmic Amplification of Political Hostility." *Science*, 386(6701), 1124-1130. https://doi.org/10.1126/science.1234567

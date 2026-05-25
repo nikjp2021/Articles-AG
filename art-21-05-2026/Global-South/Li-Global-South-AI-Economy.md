@@ -1,7 +1,6 @@
-**Intro:**
-AI is projected to add trillions to the global economy, but who is really cashing the check? For the Global South, the AI boom brings massive potential—and an even bigger risk of a widening divide. 📊 Read my breakdown of the latest UN data below. 👇
+**Title:** The AI Divide: Why the Global South Can't Afford to Be Left Behind
 
-## The AI Divide: Why the Global South Can't Afford to Be Left Behind
+AI is projected to add trillions to the global economy, but who is really cashing the check? For the Global South, the AI boom brings massive potential—and an even bigger risk of a widening divide. 📊
 
 When we talk about the economic impact of Artificial Intelligence, the numbers are staggering. Projections suggest AI could inject over $15 trillion into the global economy by 2030. But dig a little deeper into where that value is accumulating, and a stark reality emerges. 
 
