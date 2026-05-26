@@ -45,7 +45,13 @@ Ensure the topic prefix (first 2-3 words of the slug) is identical across all 4 
 
 **Universal Rules**: 
 - **CRITICAL REQUIREMENT (Titles)**: Every single article MUST start with a clear, engaging `**Title:**` block at the very top of the file.
-- **CRITICAL REQUIREMENT (Citations & References)**: Citations and references are the core requirements of this pipeline and CANNOT be overridden under any circumstances. You must use verifiable, specific sources (not vague "recent studies"). 
+- **CRITICAL REQUIREMENT (Citations & References)**: Citations and references are the core requirements of this pipeline and CANNOT be overridden under any circumstances. You must use verifiable, specific sources. 
+- **CITATION RULES**:
+  - The Research Brief contains a JSON array of citations. You MUST read this JSON and use it.
+  - Every statistic MUST include: Author (Year), n= (if applicable), and the specific finding.
+  - NEVER use vague phrases: "a study found," "research shows," "experts say".
+  - Format: `Author et al. (Year) found that [specific finding] (n=[sample], [statistical result])`
+  - If a citation field is missing from the handoff, FLAG IT — do not fabricate or hallucinate.
 - Every article MUST end with a clean `**REFERENCES:**` block citing the specific source, followed by 3-8 relevant hashtags.
 
 When you are done, trigger the `article-organizer` to organize your output.

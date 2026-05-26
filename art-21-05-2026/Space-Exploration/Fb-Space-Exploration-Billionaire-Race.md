@@ -1,5 +1,3 @@
-**Title:** Why Are Billionaires Obsessed With Space? 🚀
-
 Ever wonder why billionaires are so obsessed with going to space? 🚀🤔
 
 It’s hard to scroll through your newsfeed without seeing another rocket launch funded by someone like Elon Musk or Jeff Bezos. It’s easy to think, "Shouldn't they be spending that money down here on Earth?" 🌍

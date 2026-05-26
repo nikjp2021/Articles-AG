@@ -1,7 +1,7 @@
-**Title:** The Outrage Economy: Why Algorithms Prefer Controversy Over Consensus 📱🔥
-
 **Intro:**
 I just published a deep dive into the realities of Social Media Algorithms. If you've been wondering how this impacts the future of our industry, this is for you. Check out the full article below! 👇
+
+# The Outrage Economy: Why Algorithms Prefer Controversy Over Consensus 📱🔥
 
 Have you ever wondered why your social media feed feels like an endless loop of arguments? It is not just your imagination. The platforms are designed that way. 
 
@@ -25,8 +25,8 @@ As we move through 2026, the conversation is shifting from "how do we fix the co
 Until then, the best defense is algorithmic literacy. Remember: Your attention is the currency, and outrage is the product. Spend wisely. 💡
 
 ---
-#SocialMediaAlgorithms #BusinessStrategy #Technology #Innovation #TechLeadership #AlgorithmTransparency
+#SocialMediaAlgorithms #BusinessStrategy #Technology #Innovation #Leadership
 
 ### 📚 REFERENCES:
-*   Smith, A., et al. (2025). "Algorithmic Amplification of Political Hostility." *Science*, 386(6701), 1124-1130. https://doi.org/10.1126/science.1234567
-*   Jones, B. & Chen, C. (2026). "Engagement metrics versus bridging algorithms in social media." *CHI Conference on Human Factors in Computing Systems*, 1-15. https://doi.org/10.1145/3613904.3642123
+*   **Science (Nov 2025)** — Causal evidence study on platform architecture and political hostility.
+*   **CHI Conference (2026)** — Research on engagement vs. bridging algorithms.

@@ -1,5 +1,3 @@
-**Title:** The Trillion-Dollar Frontier: Why Space is the Ultimate Investment 🚀
-
 **Intro:**
 Why are the world’s wealthiest people pouring their fortunes into space exploration? It’s not just an ego trip—it’s the ultimate long-term bet on humanity’s survival and a trillion-dollar frontier. 🚀 Check out my deep dive below. 👇
 

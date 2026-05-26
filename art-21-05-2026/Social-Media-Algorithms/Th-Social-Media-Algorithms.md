@@ -1,4 +1,4 @@
-**Title:** The Social Media Math Problem 📱🧮
+# The Social Media Math Problem 📱🧮
 
 Why do platforms push controversy instead of important discussions? It is simple math. 🧵
 
@@ -13,10 +13,10 @@ Why do platforms push controversy instead of important discussions? It is simple
 5/ We need "bridging" algorithms that reward consensus, not just conflict. Until then, remember: Your feed is a funhouse mirror, not reality. 🪞
 
 ---
-#SocialMediaAlgorithms #BusinessStrategy #Technology #AlgorithmTransparency #SocialMediaMarketing
+#SocialMediaAlgorithms #BusinessStrategy #Technology #Innovation #Leadership
 
-Caption:
+**Caption:**
 What are your thoughts on Social Media Algorithms? Have you seen this play out in your own experience? Let's discuss below! 👇
 
 ### 📚 REFERENCES:
-*   Smith, A., et al. (2025). "Algorithmic Amplification of Political Hostility." *Science*, 386(6701), 1124-1130. https://doi.org/10.1126/science.1234567
+*   **Science (Nov 2025)** — Causal evidence on algorithmic polarization.
