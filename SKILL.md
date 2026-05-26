@@ -29,6 +29,7 @@ When requested to write articles using this pipeline, follow these steps in orde
 ## ⚠️ Important Rules for the Assistant
 - **DO NOT** search for these agents in the skills directory. They live in `/home/nikhil/.gemini/antigravity/agents/`.
 - **DO NOT** ask the user for the structure or flow. Refer to this skill file.
+- **DO NOT** stage, track, or push extra files or bulk generated article folders to Git. Strictly restrict Git commits and pushes to **agents, skills, and a small selection of the best sample folders** only.
 - Follow the **Auto-Fix Flow** in `article-reviewer.md` if scores are low. Max 1 retry before hard fail.
 
 ## 🧠 Learning from Mistakes & Corrections
