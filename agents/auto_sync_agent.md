@@ -10,7 +10,7 @@ This agent continuously watches the source **agents** directory and the central 
 # Paths (adjust if your workspace layout changes)
 SOURCE_AGENTS="/home/nikhil/.gemini/antigravity/agents"
 SOURCE_SKILL="/home/nikhil/.gemini/antigravity/skills/Article_flow/SKILL.md"
-TARGET_ROOT="/home/nikhil/AG-Projects/Articles-AG/.opencode"
+TARGET_ROOT="/home/nikhil/AG-Projects/Articles-AG/.antigravity"
 
 sync_repo() {
   echo "[$(date)] Syncing agents and SKILL.md…"
