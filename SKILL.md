@@ -22,7 +22,7 @@ When requested to write articles using this pipeline, follow these steps in orde
 1. **Research**: Trigger the `article-researcher`. It searches the web and outputs a Research Brief.
 2. **Write**: Trigger the `business-article-writer`. It reads the brief, drafts articles, and applies constraints.
 3. **Organize**: Trigger the `article-organizer`. It moves the files and brief into a topic-specific folder.
-4. **Enrich & Generate Images**: Trigger the `article-enricher`. It creates the `Assets/` subfolder, generates platform-specific image assets inside it, and writes the `assets.md` log (and its duplicate copies like `asset.md` and `assets-DD-MM-YYYY.md`) in the same subfolder.
+4. **Enrich & Generate Images**: Trigger the `article-enricher`. It creates the `Assets/` subfolder, generates platform-specific image assets inside it, and writes the single `assets.md` log (which must contain exclusively the prompts used for the images and the accessibility Alt Texts) in the same subfolder.
 5. **Review**: Trigger the `article-reviewer`. It scores the articles against the 14 quality criteria. If a failure occurs, it will log it below in the "Learning from Mistakes & Corrections" section.
 6. **Verify**: Before declaring the flow finished, perform a final internal check.
 
